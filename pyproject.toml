@@ -8,6 +8,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.9"
 isodate = "^0.6.1"
+isodate = "^0.6.1"
+rdflib = "^7.0.0"
 
 
 [build-system]
